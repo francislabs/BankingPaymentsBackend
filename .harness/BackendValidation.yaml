@@ -63,7 +63,7 @@ pipeline:
                                                   "thresholdType": "<",
                                                   "thresholdValue": 20,
                                                   "considerAllConsecutiveMinutesFromStartAsBad": "",
-                                                  "considerConsecutiveMinutes": null
+                                                  "considerConsecutiveMinutes": 
                                               }
                                           }
                                       }
